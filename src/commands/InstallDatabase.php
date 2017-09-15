@@ -7,7 +7,7 @@
  */
 namespace Zev\MyModel\Commands;
 
-use OrgStructureTreeTableSeeder;
+use Zev\MyModel\Seeds\OrgStructureTreeTableSeeder;
 use Illuminate\Console\Command;
 
 class InstallDatabase extends Command

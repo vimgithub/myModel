@@ -1,5 +1,7 @@
 <?php
 
+namespace  Zev\MyModel\Seeds;
+
 use Illuminate\Database\Seeder;
 
 class OrgStructureTreeTableSeeder extends Seeder
