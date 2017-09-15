@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    {{ $msg }}{{ $data }}
+                    {{ $msg }}
                 </div>
 
                 <div class="links">
