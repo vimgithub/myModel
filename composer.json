@@ -1,0 +1,20 @@
+{
+    "name": "zev/mymodel",
+    "description": "test package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zev",
+            "email": "zev@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.5.9"
+    },
+    "autoload":{
+        "psr-0":{
+            "Zev\\MyModel\\":"src/"
+        }
+    }
+}
